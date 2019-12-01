@@ -1,0 +1,4 @@
+https://github.com/caiguanhao/baidu-maps-coord-utils.git
+https://github.com/smeijer/leaflet-geosearch.git
+favicon-creator.zip
+download_links (extension)
